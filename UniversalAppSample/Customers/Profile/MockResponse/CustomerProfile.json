@@ -1,0 +1,24 @@
+{
+    "value": [
+        {
+            "FirstName": "Tom",
+            "LastName": "Decko",
+            "Age": 36,
+            "Country": "United States",
+            "City": "Chicago",
+            "Id": 1827,
+            "BadgeNo": 54,
+            "BloodGroup": "ANegative"
+        },
+        {
+            "FirstName": "Michael",
+            "LastName": "Langer",
+            "Age": 36,
+            "Country": "United States",
+            "City": "Newyork",
+            "Id": 1827,
+            "BadgeNo": 54,
+            "BloodGroup": "ANegative"
+        }
+    ]
+}

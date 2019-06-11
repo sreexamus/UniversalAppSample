@@ -1,0 +1,22 @@
+{
+    "value": [
+        {
+            "PhoneNumber": "763-938-8367",
+            "FirstName": "Decko",
+            "Address": "10972 Jollyville",
+            "ApartmentNo": 1230,
+            "Email": "test@gmail.com",
+            "Linkedin": "usertest.linkedin",
+            "Employer": "HCL Inc",
+        },
+        {
+            "PhoneNumber": "763-938-8367",
+            "FirstName": "Michael",
+            "Address": "2837 Round Rock",
+            "ApartmentNo": "372",
+            "Email": "rest@gmail.com",
+            "linkedin": "secondtest.linkedin",
+            "Employer": "Cognizant Inc",
+        }
+    ]
+}
